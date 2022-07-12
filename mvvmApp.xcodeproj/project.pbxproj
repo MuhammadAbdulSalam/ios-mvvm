@@ -17,6 +17,8 @@
 		4526786F287D5ABD003002A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45267845287D5ABB003002A0 /* ContentView.swift */; };
 		45267870287D5ABD003002A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45267846287D5ABC003002A0 /* Assets.xcassets */; };
 		45267871287D5ABD003002A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45267846287D5ABC003002A0 /* Assets.xcassets */; };
+		45267888287DA817003002A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45267887287DA817003002A0 /* LaunchScreen.storyboard */; };
+		45267889287DA817003002A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45267887287DA817003002A0 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		45267864287D5ABD003002A0 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45267868287D5ABD003002A0 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		4526786A287D5ABD003002A0 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		45267887287DA817003002A0 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,7 @@
 				45267844287D5ABB003002A0 /* mvvmAppApp.swift */,
 				45267845287D5ABB003002A0 /* ContentView.swift */,
 				45267846287D5ABC003002A0 /* Assets.xcassets */,
+				45267887287DA817003002A0 /* LaunchScreen.storyboard */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -267,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45267870287D5ABD003002A0 /* Assets.xcassets in Resources */,
+				45267888287DA817003002A0 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45267871287D5ABD003002A0 /* Assets.xcassets in Resources */,
+				45267889287DA817003002A0 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

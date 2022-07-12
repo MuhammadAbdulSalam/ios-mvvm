@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "modern-elegant-fox-head-tail-260nw-1683601468.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "modern-elegant-fox-head-tail-260nw-1683601469.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "modern-elegant-fox-head-tail-260nw-1683601470.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
